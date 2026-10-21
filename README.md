@@ -16,14 +16,26 @@ A Power BI portfolio report for exploring country-level GDP and population indic
 - Combined line and column chart
 - Multi-page report navigation
 
-## Preview screenshots
+## Dashboard gallery
 
-Screenshots will be added to the `screenshots/` folder. Open the `.pbix` file in Power BI Desktop to explore the interactive report.
+Click any screenshot to view it at full size.
+
+### 1. Overview
+
+[![Overview dashboard](screenshots/Overview.png)](screenshots/Overview.png)
+
+### 2. Country Details
+
+[![Country Details dashboard](screenshots/Country%20Details.png)](screenshots/Country%20Details.png)
+
+### 3. MetaData
+
+[![MetaData page](screenshots/MetaData.png)](screenshots/MetaData.png)
 
 ## Repository contents
 
 - `Global-GDP-Population-Analytics.pbix` — Power BI Desktop report
-- `screenshots/` — report screenshots (to be uploaded)
+- `screenshots/` — screenshots of the Overview, Country Details, and MetaData pages
 
 ## Notes
 
